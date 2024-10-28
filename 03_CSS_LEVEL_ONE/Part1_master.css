@@ -1,0 +1,23 @@
+/* General form of CSS:
+
+selected tag{
+property:value;
+}
+
+*/
+
+h1{
+    color: red;
+}
+
+li{
+    color: rgb(255, 0, 0);
+}
+
+p{
+    color: #ff08ce;
+}
+
+h4{
+    color: rgba(255, 0, 0, 0);
+}
