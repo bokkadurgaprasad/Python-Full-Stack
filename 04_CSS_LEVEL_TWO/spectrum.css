@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    font-family: 'GFSAmbrosiaRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+.spectrum{
+    margin: auto;
+}
+
+td{
+    height: 200px;
+    padding: 100px;
+    border: 6px solid black;
+}
+
+#one{
+    background-color: #8ecae6;
+}
+
+#two{
+    background-color: #219ebc;
+}
+
+#three{
+    background-color: #023047;
+}
+
+#four{
+    background-color: #ffb703;
+}
+
+#five{
+    background-color: #fb8500;
+}
